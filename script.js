@@ -4,7 +4,7 @@ console.log("hey this my clock it is running
 let hrs=document.getElementById("hrs")
 let min=document.getElementById("min")
 let sec=document.getElementById("sec")
- //hey buddy whats wrong cbbb
+ //hey buddy whats wrong cbbb bbb
 setInterval(()=>{
     let now=new Date();
     hrs.innerHTML=(now.getHours()<10?"0":"")+now.getHours();
