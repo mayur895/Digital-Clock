@@ -1,4 +1,4 @@
-console.log("hey this my clock it is running njjj
+console.log("hey this my clock it is running njjjbbbb
             ")
 
 let hrs=document.getElementById("hrs")
