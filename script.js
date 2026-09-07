@@ -1,4 +1,4 @@
-console.log("hey this my clock it is running njjjbbbb hfhfh m,klko;k
+console.log("hey this my clock it is running on the gst time
             ")
 
 let hrs=document.getElementById("hrs")
