@@ -1,4 +1,4 @@
-console.log("hey this my clock it is running on the gst time is on board is ready to take offfk.jpoio
+console.log("hey this my clock it is running on the gst time is on board is ready to take 
 
             ")
 
