@@ -1,4 +1,4 @@
-console.log("hey this my clock it is running on the gst time hgfyh.ilk,
+console.log("hey this my only clock it is running on the gst time hgfyh.ilk,
             
 
             ")
