@@ -1,4 +1,4 @@
-console.log("hey this  is my iz the is the jsncklcm  my only clock it is running on the gst time vhghnfvbh
+console.log("hey this  is my iz the is the jsncklcm  my only clock it is running on the gst time vhghnfvbh serertger
             
 
             ")
