@@ -1,4 +1,4 @@
-console.log("hey this  is  yes my iz the is the jsncklcm  my only clock it is running on the gst time ti
+console.log("hey this  is  yes my iz the is the jsncklcm  my only clock it is running on the gst time time 
             ")
 
 let hrs=document.getElementById("hrs")
