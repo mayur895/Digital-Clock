@@ -1,4 +1,4 @@
-console.log("hey this  is  yes my  fhbbf")
+console.log("hey this  is  yes my  fhbbfgiyhpol';")
 
 let hrs=document.getElementById("hrs")
 let min=document.getElementById("min")
